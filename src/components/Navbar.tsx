@@ -23,7 +23,7 @@ const Navbar = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center">
             <img 
-              src="/lovable-uploads/2b84ec42-1f44-43d0-b9d8-502b812679a5.png" 
+              src="/vhs_studios/lovable-uploads/2b84ec42-1f44-43d0-b9d8-502b812679a5.png" 
               alt="VHS Studios Logo" 
               className="h-10 w-auto"
             />
